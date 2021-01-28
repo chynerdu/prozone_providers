@@ -38,7 +38,7 @@ How to optimize the code of the application in order to put it into production?<
 
 [ ] By authorizing the multidex<br>
 [x] By removing android: debuggable from the Gradle file<br>
-[ ] By increasing the heap size of the Gradle daemon Using code obfuscation/shrinking tools<br>
+[ ] By increasing the heap size of the Gradle daemon Using code obfuscation/shrinking tools<br><br><br><br>
 
 ###########
 For help getting started with Flutter, view our
