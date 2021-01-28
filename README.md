@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## Questions
+## Answers to Questions
 
 Question 1 <br>
 If you want to have two variations of your application (for example, a free version and a paid version), what do you need to configure in your Gradle file in order to distinguish them?<br>
