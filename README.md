@@ -17,6 +17,7 @@ You made an innovative PDF annotation application. How to make it appear among t
 [ ] By declaring a broadcast receiver in the Manifesto of your application.<br>
 [ ] By declaring a service in the Manifesto of your application.<br>
 [x] By declaring an intent filter in the Manifesto of your application.<br>
+
 Question 3<br>
 How can you open a certain activity of your Android application when it receives a URL following a particular schema?<br>
 
